@@ -50,7 +50,7 @@ export default function Wiki(props) {
                             imgPais={pais}
                         />
                     </div>
-
+        
                 </div>
 
                 <div id="paragrafo">
