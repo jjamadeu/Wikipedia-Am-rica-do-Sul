@@ -45,7 +45,7 @@ export default function Wiki(props) {
                     </div>
 
                     <div id="imagemPais">
-                        <p id="bandeiraPais"><span>BANDEIRA DO PAÍS</span></p>
+                        <p id="bandeiraPais"><span>Bandeira do País</span></p>
                         <BandeiraPais
                             imgPais={pais}
                         />
