@@ -52,7 +52,7 @@ export default function Paragrafo(props) {
                     o centro cultural, político e financeiro a partir do qual o Chile se expandiu no final do século XIX, quando integrou as regiões norte
                     e sul em uma só nação. O sul do país é rico em florestas e pastagens e possui uma cadeia de montanhas, vulcões e lagos. A costa sul é
                     um gigantesco labirinto de penínsulas compostas por fiordes, enseadas, canais e ilhas. A cordilheira dos Andes está localizada por
-                    toda a fronteira oriental chilena.
+                    toda a fronteira oriental chilena.   
 
 
                 </p>
