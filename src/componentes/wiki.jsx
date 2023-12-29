@@ -17,7 +17,7 @@ export default function Wiki(props) {
         { value: "COL", text: "Colômbia" },
         { value: "ECU", text: "Equador" },
         { value: "GUY", text: "Guiana" },
-        { value: "MEX", text: "México" },
+        { value: "GUF", text: "Guiana Francesa" },
         { value: "PAR", text: "Paraguai" },
         { value: "PER", text: "Peru" },
         { value: "SUR", text: "Suriname" },

@@ -100,17 +100,18 @@ export default function Paragrafo(props) {
             </label>
         )
     }
-    if (props.textoPais == 'MEX') {
+    if (props.textoPais == 'GUF') {
         return (
             <label><span>{props.label}</span>
                 <p >
-                    México, oficialmente Estados Unidos Mexicanos, é uma república constitucional federal localizada na América do Norte. O país é limitado
-                    a norte pelos Estados Unidos; ao sul e oeste pelo Oceano Pacífico; a sudeste pela Guatemala, Belize e Mar do Caribe; a leste pelo Golfo
-                    do México. Com um território que abrange quase 2 milhões de quilômetros quadrados, o México é o quinto maior país das Américas por
-                    área total e o 14.º maior país independente do mundo. Com uma população estimada para 2020 de 126 milhões de habitantes, é o 11.º país
-                    mais populoso do mundo e o mais populoso país da hispanofonia. O México é uma federação composta por 31 estados e a Cidade do México
-                    (capital). O México figura também como o segundo país mais populoso e segundo em PIB da América Latina, em ambos os casos superado
-                    apenas pelo Brasil.
+                    A Guiana Frances é um departamento ultramarino e região da França, na costa do Atlântico Norte da América do Sul, nas Guianas.
+                    Faz fronteira com o Brasil a leste e sul e com o Suriname a oeste. Desde 1981, quando Belize se tornou independente do Reino
+                    Unido, a Guiana Francesa tem sido o único território continental na América que ainda está sob a soberania de um país europeu.
+                    Com uma área de 83 534 km², a Guiana Francesa é a segunda maior região da França e a maior região ultraperiférica dentro
+                    da União Europeia. Tem uma densidade populacional muito baixa, com apenas 3,6 habitantes por km². Metade de seus 301 099
+                    habitantes em 2022 viviam na área metropolitana de Caiena, sua capital. Desde dezembro de 2015, tanto a região como o
+                    departamento têm sido governados por uma assembleia única no âmbito de uma nova coletividade territorial, a Coletividade
+                    Territorial da Guiana Francesa . Essa assembleia, a Assembleia da Guiana Francesa , substituiu o antigo conselho regional e o conselho departamental, ambos desmembrados
                 </p>
             </label>
         )
@@ -163,13 +164,13 @@ export default function Paragrafo(props) {
         return (
             <label><span>{props.label}</span>
                 <p >
-                Uruguai, oficialmente República Oriental do Uruguai, é um país localizado na parte sudeste da América do Sul. Sua 
-                população é de cerca de 3,5 milhões de habitantes, dos quais 1,8 milhão vivem na capital, Montevidéu, e em sua área metropolitana. 
-                Estima-se que entre 88% e 94% da população possua ascendência principalmente europeia ou mestiça. A única fronteira terrestre do 
-                Uruguai é com o estado brasileiro do Rio Grande do Sul, no norte, sendo a segunda menor fronteira do Brasil com outro país sul-americano. 
-                Para o oeste encontra-se o rio Uruguai e a sudoeste situa-se o estuário do rio da Prata. O país faz fronteira com a Argentina apenas em 
-                alguns bancos de qualquer um dos rios citados acima, enquanto que a sudeste fica o oceano Atlântico. O Uruguai é o segundo menor país da 
-                América do Sul, sendo somente maior que o Suriname.
+                    Uruguai, oficialmente República Oriental do Uruguai, é um país localizado na parte sudeste da América do Sul. Sua
+                    população é de cerca de 3,5 milhões de habitantes, dos quais 1,8 milhão vivem na capital, Montevidéu, e em sua área metropolitana.
+                    Estima-se que entre 88% e 94% da população possua ascendência principalmente europeia ou mestiça. A única fronteira terrestre do
+                    Uruguai é com o estado brasileiro do Rio Grande do Sul, no norte, sendo a segunda menor fronteira do Brasil com outro país sul-americano.
+                    Para o oeste encontra-se o rio Uruguai e a sudoeste situa-se o estuário do rio da Prata. O país faz fronteira com a Argentina apenas em
+                    alguns bancos de qualquer um dos rios citados acima, enquanto que a sudeste fica o oceano Atlântico. O Uruguai é o segundo menor país da
+                    América do Sul, sendo somente maior que o Suriname.
                 </p>
             </label>
         )
@@ -178,14 +179,14 @@ export default function Paragrafo(props) {
         return (
             <label><span>{props.label}</span>
                 <p >
-                Venezuela , é um país da América localizado na parte norte da América do Sul, constituído por uma parte continental e um grande número 
-                de pequenas ilhas no Mar do Caribe, cuja capital e maior aglomeração urbana é a cidade de Caracas. Possui uma área de 916 445 km², sendo 
-                o 32º maior país no mundo em território. Suas fronteiras são delimitadas a norte com o Mar do Caribe, a oeste com a Colômbia, ao sul com 
-                o Brasil e ao leste com a Guiana, com quem mantém disputas territoriais. Através das suas zonas marítimas, tem soberania sobre 71 295 km²
-                 de mar territorial, 22 224 km² na zona contígua, 471 507 km² do Mar do Caribe e o Oceano Atlântico sob o conceito de zona económica 
-                 exclusiva, e 99 889 km² de plataforma continental. Esta área marinha faz fronteira com treze estados soberanos, sendo Trinidad e Tobago, 
-                 Granada, São Vicente e Granadinas, Santa Lúcia e Barbados alguns deles. Sua população é estimada em 28 067 000 habitantes e a capital 
-                 nacional é Caracas.
+                    Venezuela , é um país da América localizado na parte norte da América do Sul, constituído por uma parte continental e um grande número
+                    de pequenas ilhas no Mar do Caribe, cuja capital e maior aglomeração urbana é a cidade de Caracas. Possui uma área de 916 445 km², sendo
+                    o 32º maior país no mundo em território. Suas fronteiras são delimitadas a norte com o Mar do Caribe, a oeste com a Colômbia, ao sul com
+                    o Brasil e ao leste com a Guiana, com quem mantém disputas territoriais. Através das suas zonas marítimas, tem soberania sobre 71 295 km²
+                    de mar territorial, 22 224 km² na zona contígua, 471 507 km² do Mar do Caribe e o Oceano Atlântico sob o conceito de zona económica
+                    exclusiva, e 99 889 km² de plataforma continental. Esta área marinha faz fronteira com treze estados soberanos, sendo Trinidad e Tobago,
+                    Granada, São Vicente e Granadinas, Santa Lúcia e Barbados alguns deles. Sua população é estimada em 28 067 000 habitantes e a capital
+                    nacional é Caracas.
                 </p>
             </label>
         )

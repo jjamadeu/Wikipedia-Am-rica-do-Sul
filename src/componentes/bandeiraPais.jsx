@@ -7,7 +7,7 @@ import ImagemPaisCHI from "../bandeiras/bandeiraCHI.png";
 import ImagemPaisCOL from "../bandeiras/bandeiraCOL.png";
 import ImagemPaisECU from "../bandeiras/bandeiraECU.png";
 import ImagemPaisGUY from "../bandeiras/bandeiraGUY.png";
-import ImagemPaisMEX from "../bandeiras/bandeiraMEX.png";
+import ImagemPaisGUF from "../bandeiras/bandeiraGUF.png";
 import ImagemPaisPAR from "../bandeiras/bandeiraPAR.png";
 import ImagemPaisPER from "../bandeiras/bandeiraPER.png";
 import ImagemPaisSUR from "../bandeiras/bandeiraSUR.png";
@@ -51,9 +51,9 @@ export default function BandeiraPais(props) {
             <img src={ImagemPaisGUY} alt="Imagem do Pais Selecionado" height="130" width="250" border="1" />
         )
     }
-    if (props.imgPais == "MEX") {
+    if (props.imgPais == "GUF") {
         return (
-            <img src={ImagemPaisMEX} alt="Imagem do Pais Selecionado" height="130" width="250" border="1" />
+            <img src={ImagemPaisGUF} alt="Imagem do Pais Selecionado" height="130" width="250" border="1" />
         )
     }
     if (props.imgPais == "PAR") {
