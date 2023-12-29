@@ -49,7 +49,7 @@ export default function Wiki(props) {
                         <BandeiraPais
                             imgPais={pais}
                         />
-                    </div>
+                    </div> 
         
                 </div>
 
